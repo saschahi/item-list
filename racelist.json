@@ -1,0 +1,176 @@
+{
+	"races" : [
+	{
+		"abr": "human - buy pawn",
+		"price": 1500
+	},
+	{
+		"abr": "astoriel",
+		"price": 3333
+	},
+	{
+		"abr": "avali",
+		"price": 4167
+	},
+	{
+		"abr": "azerothianhuman",
+		"price": 3333
+	},
+	{
+		"abr": "bloodelf",
+		"price": 5000
+	},
+	{
+		"abr": "chaosspacemarine",
+		"price": 2917
+	},
+	{
+		"abr": "darkirondwarf",
+		"price": 6667
+	},
+	{
+		"abr": "draenei",
+		"price": 5833
+	},
+	{
+		"abr": "droid",
+		"price": 1417
+	},
+	{
+		"abr": "ferian",
+		"price": 3667
+	},
+	{
+		"abr": "fogman",
+		"price": 1667
+	},
+	{
+		"abr": "fogmanprince",
+		"price": 1667
+	},
+	{
+		"abr": "fogmansoldier",
+		"price": 1667
+	},
+	{
+		"abr": "forsaken",
+		"price": 3167
+	},
+	{
+		"abr": "forsakenhighelf",
+		"price": 3333
+	},
+	{
+		"abr": "forsakennightelf",
+		"price": 3333
+	},
+	{
+		"abr": "ghoul",
+		"price": 1667
+	},
+	{
+		"abr": "glowingone",
+		"price": 1667
+	},
+	{
+		"abr": "gnome",
+		"price": 3333
+	},
+	{
+		"abr": "highelf",
+		"price": 6667
+	},
+	{
+		"abr": "highmountaintauren",
+		"price": 6667
+	},
+	{
+		"abr": "hiveprince",
+		"price": 1667
+	},
+	{
+		"abr": "hivesoldierdrone",
+		"price": 1667
+	},
+	{
+		"abr": "hiveworkerdrone",
+		"price": 1667
+	},
+	{
+		"abr": "ikquan",
+		"price": 2917
+	},
+	{
+		"abr": "mag'harorc",
+		"price": 5000
+	},
+	{
+		"abr": "nightborne",
+		"price": 6667
+	},
+	{
+		"abr": "nightelf",
+		"price": 5000
+	},
+	{
+		"abr": "orassan",
+		"price": 3167
+	},
+	{
+		"abr": "orc",
+		"price": 5000
+	},
+	{
+		"abr": "ratkin",
+		"price": 3333
+	},
+	{
+		"abr": "skeleton",
+		"price": 1667
+	},
+	{
+		"abr": "slither",
+		"price": 2917
+	},
+	{
+		"abr": "southernhiveprince",
+		"price": 1667
+	},
+	{
+		"abr": "southernhivesoldierdrone",
+		"price": 1667
+	},
+	{
+		"abr": "southernhiveworkerdrone",
+		"price": 1667
+	},
+	{
+		"abr": "tauren	",
+		"price": 5833
+	},
+	{
+		"abr": "thrumboian",
+		"price": 5000
+	},
+	{
+		"abr": "trenchcat",
+		"price": 3167
+	},
+	{
+		"abr": "troll",
+		"price": 5000
+	},
+	{
+		"abr": "voidelf",
+		"price": 6667
+	},
+	{
+		"abr": "worgen",
+		"price": 5000
+	},
+	{
+		"abr": "zandalaritroll",
+		"price": 6667
+	}	
+	]
+}
